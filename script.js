@@ -56,7 +56,7 @@ function createTaskItem(obj){
     let indexObj = tasks.indexOf(obj);
     tasks.splice(indexObj, 1);
 
-    ul.innetHTML = "";
+    ul.innerHTML = "";
     renderElements(tasks);
   })
 

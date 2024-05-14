@@ -142,11 +142,11 @@ body {
                         }
 
                         .span-important {
-                            color: #028302;
+                            color: #f3a703;
                         }
 
                         .span-normal {
-                            color: #f3a703;
+                            color: #028302;
                         }
                 .task__button--remove-task {
                     background-image: url(./assets/trash-icon.svg);
